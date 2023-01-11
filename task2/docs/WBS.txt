@@ -1,0 +1,19 @@
+1.      Client part (Windows) - development time about 21 hours
+
+·        Function that allows to connect to a game (time needed to develop 3 hours)
+·        Function for positioning ships on map (time needed to develop 3 hours)
+·        Function that allows to surrender (time needed to develop 3 hours)
+·        Function to send shot data to client (time needed to develop 4 hours)
+·        Function to send data about enemy shots to client (time needed to develop 4 hours)
+·        Function to receive enemy shots data (time needed to develop 3 hours)
+
+
+2.      Server part (Windows) - development time about 21 hours
+
+·        Function to start game server (time needed to develop 3 hours)
+·        Function for positioning ships on map (time needed to develop 3 hours)
+·        Function to check if game ended to close server (time needed to develop 4 hours)
+·        Function to send shot data to client (time needed to develop 4 hours)
+·        Function to send data about enemy shots to client (time needed to develop 4 hours)
+·        Function to receive enemy shots data (time needed to develop 3 hours)
+·        Function that allows to surrender (time needed to develop 3 hours)
